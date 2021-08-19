@@ -37,7 +37,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 
-def hello_world():
+def hello_world(x):
     """
     Prints 'Hello World!'
     :return: str

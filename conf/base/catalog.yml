@@ -29,4 +29,7 @@ gender_proportion_breakdown_chart:
 # Fake dataset for demonstration purposes
 REPLACE_ME:
   type: kit.io.ReplaceableDataSet
+
+OUTPUT_REPLACE_ME:
+  type: kit.io.ReplaceableDataSet
 ##################################
