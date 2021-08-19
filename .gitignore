@@ -11,7 +11,7 @@ conf/local/**
 conf/**/*credentials*
 
 # ignore everything in the following folders
-data/**
+#data/** [disable by guntapong]
 logs/**
 
 # except their sub-folders
